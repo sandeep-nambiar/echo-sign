@@ -1,4 +1,5 @@
 "use strict";
+console.log("here");
 let myClass 		=	class {
 	/*constructor(getVar){
 		this.params 	=	{
